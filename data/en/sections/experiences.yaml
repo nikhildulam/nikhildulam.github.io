@@ -11,38 +11,30 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: AppCode Ltd.
-    url: https://www.appscode.com
-    location: Dhaka Branch
+    name: National Seeds Corporation.
+    url: https://www.indiaseeds.com
+    location: Hyderabad
     # company overview
-    overview: AppsCode Ltd. is a subsidiary company of AppsCode Inc. USA. Its mission is to accelerate the transition to Containers by building a Kubernetes-native Data Platform.
+    overview: National Seeds Corporation Ltd. (NSC) is a Schedule ‘B’-Miniratna Category-I company wholly owned by Government of India under the administrative control of Department of Agriculture Cooperation & Farmer’s Welfare, Ministry of Agriculture and Farmers Welfare.
   positions:
-  - designation: Lead Software Engineer
-    start: Jan 2021
+  - designation: Account Assistant
+    start: June 2018
+    end: 
     responsibilities:
     - Lead [Stash](https://stash.run/) Project
     - Lead backup part of [KubeDB](https://kubedb.com/)
     - Collaborate with front-end team for integration of KubeDB and Stash with [ByteBuilders](https://byte.builders/).
-  - designation: Software Engineer
-    start: Nov 2017
-    end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design, develop and manage disaster recovery tool Stash that backup Kubernetes volumes, databases and cluster's resource definition.
-    - Worked on database operator KubeDB that deploy and manages most popular databases inside Kubernetes cluster in Kubernetes native way.
-    - Added support for Prometheus monitoring in various AppsCode's tools.
-    - Provide support to the users of our various tools.
-
+  
 
 - company:
-    name: AppsCode Ltd.
+    name: Visionn CS Institute.
     url: "https://www.appscode.com"
-    location: Dhaka, Bangladesh
+    location: Hyderabad
     overview: AppsCode Ltd. is a subsidiary company of AppsCode Inc. USA. Its mission is to accelerate the transition to Containers by building a Kubernetes-native Data Platform.
   positions:
-  - designation: Intern
+  - designation: Teaching Faculty
     start: March 2016
-    end: May 2016
+    end: 
     responsibilities:
     - Design, develop and test a sample library website.
     - Learn git version control.
