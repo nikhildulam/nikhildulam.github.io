@@ -4,87 +4,82 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: CMA Inter
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2021-2022
   institution:
-    name: University of XYZ
+    name: Institute of Cost Accountants of India
+    url: "https://icmai.in/"
+  grade: #(optional)
+    scale: Percentage
+    achieved: 56%
+    outOf: 100
+- name: M.Com in Finance
+  icon: fa-graduation-cap
+  timeframe: 2015-2017
+  institution:
+    name: Osmania University
     url: "#"
   grade: #(optional)
     scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+    achieved: 7.2
+    outOf: 10
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades: true
+  #   courses:
+  #   - name: Data Structures and Algorithm
+  #     achieved: 3.75
+  #     outOf: 4
+  #   - name: Network Security
+  #     achieved: 3.80
+  #     outOf: 4
+  #   - name: Operating System
+  #     achieved: 3.5
+  #     outOf: 4
+  #   - name: Artificial Intelligent
+  #     achieved: 3.75
+  #     outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
+  - title: FDI in India's Insurance Sector, Global Insurance Practices and Outlook, GLOBAL RESEARCH SOCIETY PUBLICATIONS - ISBN 978-93-85817-00-7
     url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
+  - Given prsentation in a Seminar on Impact of GST on Indian Economy, National Seminar on GST- Issues and Implications conducted by Department of commerce NIZAM College.  
+  - Given prsentation in a Seminar on Payments Banks in India, International seminar on "Commerce Education -New Paradigms in Accounting and Finance " organised by Department of commerce Osmania University, Hyderabad
+- name: B.Com (Computers)
+  icon: fa-graduation-cap
+  timeframe: 2013-2015
   institution:
-    name: MST College of Science
+    name: Osmania University
     url: "#"
   grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+    scale: CGPA
+    achieved: 7.4
+    outOf: 10
+
+- name: Intermediate (10+2)
+  icon: fa-university
+  timeframe: 2009-2011
+  institution:
+    name: Sri Aurobindo Junior College
+    url: "#"
+  grade: #(optional)
+    scale: Percentage
+    achieved: 89%
+    outOf: 100
 - name: Secondary School Certificate
   icon: fa-school
   timeframe: 2005-2010
   institution:
-    name: JK School of Science
+    name: Sri Vani High School
+    url: "#"
   grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    scale: Percentage
+    achieved: 88%
+    outOf: 100

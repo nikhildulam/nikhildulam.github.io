@@ -11,54 +11,31 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: National Seeds Corporation.
+    url: https://www.indiaseeds.com
+    location: Hyderabad
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: National Seeds Corporation Ltd. (NSC) is a Schedule ‘B’-Miniratna Category-I company wholly owned by Government of India under the administrative control of Department of Agriculture Cooperation & Farmer’s Welfare, Ministry of Agriculture and Farmers Welfare.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Account Assistant
+    start: June 2018
+    end: 
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Passing of payments and documents such as invoices, journal vouchers, employee reimbursements and statements.
+    - Reporting financial data and updating financial records in ledgers and journals using ERP software
+    - Preparation and review of Bank Reconciliation Statements, Input Tax Credit Reconciliation under GST, and Other management reports like MIS reports. 
+    - Preparation Monthly TDS and GST reports and Filing of GST and TDS Returns
+    - Preparation of financial statements such as Balance Sheet, Profit and Loss A/c and Cash Flow Statements as per Schedule-III of Companies Act, 2013.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Visionn CS Institute.
+    url: "https://visionncs.blogspot.com"
+    location: Hyderabad
+    overview: One of the reputed company secretary coaching institute in Hyderabad
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Teaching Faculty
+    start: August 2017
+    end: 
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Teaching three subjects such as Fundamentals of Accounts,Business Economics and Business Statistics.
+    
