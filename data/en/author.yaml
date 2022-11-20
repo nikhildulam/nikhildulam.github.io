@@ -6,7 +6,7 @@ greeting: "Hi, I am"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "contact@nikhildulam.me"
+  email: "contact@nikhildulam.in"
   phone: "+91 9392927277"
   github: nikhildulam
   linkedin: nikhildulam
