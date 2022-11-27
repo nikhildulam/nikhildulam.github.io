@@ -128,7 +128,7 @@ params:
       enabled: true
       # Google Analytics
       google:
-        id: 
+        id: UA-164672742-1
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
